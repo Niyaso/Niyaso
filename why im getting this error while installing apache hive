@@ -1,0 +1,21 @@
+Last login: Tue Mar  8 09:41:17 on ttys000
+(base) niyasop@Niyass-MacBook-Air ~ % brew install hive
+Running `brew update --preinstall`...
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> Updated Formulae
+Updated 16 formulae.
+==> Updated Casks
+Updated 18 casks.
+
+Error: openjdk@8: no bottle available!
+You can try to install from source with:
+  brew install --build-from-source openjdk@8
+Please note building from source is unsupported. You will encounter build
+failures with some formulae. If you experience any issues please create pull
+requests instead of asking for help on Homebrew's GitHub, Twitter or any other
+official channels.
+(base) niyasop@Niyass-MacBook-Air ~ % 
+
+
+
